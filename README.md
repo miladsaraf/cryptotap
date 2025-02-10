@@ -1,10 +1,34 @@
 # NotCoin Telegram Bot Clone Source Code, TapSwap, Blum, X Empire, Hamster Kombat, W-Coin Clone https://t.me/CryptoTaperBot
+  <img src="./src/cryptotap-banner.png" alt="Slide 1" width="200" height="auto">
 
 🚀 CryptoTap - A next-level Airdrop Clicker Game with a Telegram Mini App, Bot, and Full API integration! A perfect Notcoin, X Empire, TapSwap, and Blum alternative—better gameplay, more engagement, and a seamless admin experience.
 
 💰 Limited-Time Offer:
 
 🔥 $199 for the first 5 buyers! (Regular Price: $399) + 3 Months Free Hosting optimized for maximum performance and uptime.
+
+## bot Previews
+<div style="display: flex; overflow-x: auto;">
+    <img src="./src/loading.PNG" alt="Slide 1" width="200" height="auto">
+    <img src="./src/login-reward.PNG" alt="Slide 2" width="200" height="auto">
+    <img src="./src/main.PNG" alt="Slide 3" width="200" height="auto">
+    <img src="./src/friend.PNG" alt="Slide 4" width="200" height="auto">
+    <img src="./src/league.PNG" alt="Slide 5" width="200" height="auto">
+    <img src="./src/quests.PNG" alt="Slide 6" width="200" height="auto">
+    <img src="./src/boost.PNG" alt="Slide 7" width="200" height="auto">
+    <img src="./src/tap-upgrade.PNG" alt="Slide 8" width="200" height="auto">
+    <img src="./src/ton-wallet.PNG" alt="Slide 9" width="200" height="auto">
+
+</div>
+
+## admin-panel Previews
+<div style="display: flex; overflow-x: auto;">
+  <img src="./src/overview.PNG" alt="Slide 1" width="200" height="auto">
+  <img src="./src/dashboard-options.PNG" alt="Slide 2" width="200" height="auto">
+  <img src="./src/game-settings.PNG" alt="Slide 3" width="200" height="auto">
+  <img src="./src/manage-users.PNG" alt="Slide 4" width="200" height="auto">
+  <img src="./src/manage-boosts.PNG" alt="Slide 4" width="200" height="auto">
+</div>
 
 # 🎮 Why Choose CryptoTap? (Telegram Bot Airdrop game source code)
 
