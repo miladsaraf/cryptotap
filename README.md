@@ -1,11 +1,13 @@
-# NotCoin Telegram Bot Clone Source Code, TapSwap, Blum, X Empire, Hamster Kombat, W-Coin Clone https://t.me/CryptoTaperBot
+# NotCoin Telegram Bot Clone Source Code, TapSwap, Blum, X Empire, Hamster Kombat, W-Coin Clone [CryptoTap]([https://link-url-here.org](https://t.me/CryptoTaperBot))
   <img src="./src/cryptotap-banner.png" alt="Slide 1" width="200" height="auto">
 
 🚀 CryptoTap - A next-level Airdrop Clicker Game with a Telegram Mini App, Bot, and Full API integration! A perfect Notcoin, X Empire, TapSwap, and Blum alternative—better gameplay, more engagement, and a seamless admin experience.
 
 💰 Limited-Time Offer:
 
-🔥 $199 for the first 5 buyers! (Regular Price: $399) + 3 Months Free Hosting optimized for maximum performance and uptime.
+## 🔥 $199 for the first 5 buyers!
+
+(Regular Price: $399) + 3 Months Free Hosting optimized for maximum performance and uptime.
 
 ## bot Previews
 <div style="display: flex; overflow-x: auto;">
@@ -67,14 +69,19 @@ Maintenance Mode – Temporarily disable the bot when needed.
 ## 📌 Admin Panel Features
 
 🔹 User Management – Search, edit, and control all users.
+
 🔹 Task Management – Create and manage missions with ease.
+
 🔹 Referral Tracking – Monitor user invites and bonuses.
+
 🔹 Customization Panel – Adjust game settings, rewards, and branding.
+
 🔹 Performance Monitoring – Ensure smooth operation with real-time stats.
 
 ## 💲 Pricing
 
 🎯 Special Offer: First 5 buyers get it for $199 (then back to $399).
+
 💎 Includes: Full script, admin panel, Telegram bot codes, API integration, and 3 months of free hosting.
 
 📛 NO SCAMMERS – Serious buyers only! 📛
