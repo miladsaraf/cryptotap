@@ -1,4 +1,4 @@
-# NotCoin Telegram Bot Clone Source Code, TapSwap, Blum, X Empire, Hamster Kombat, W-Coin Clone [CryptoTap](https://t.me/CryptoTaperBot)
+# NotCoin Telegram Bot Clone Source Code, TapSwap, Blum, X Empire, Hamster Kombat, W-Coin Clone [CryptoTap](https://t.me/CryptoTaperBot) 2025
 
 [Play Online Demo](https://cryptotap.datanito.com/)
 
@@ -10,7 +10,7 @@
 
 ## 🔥 $199 for the first 5 buyers!
 
-(Regular Price: $399) + 3 Months Free Hosting optimized for maximum performance and uptime.
+Regular Price: $799 (Saves you $600) + 3 Months Premium Hosting For Free! optimized for maximum performance and uptime ( Saves you $50 ).
 
 ## bot Previews
 <div style="display: flex; overflow-x: auto;">
