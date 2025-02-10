@@ -1,5 +1,8 @@
 # NotCoin Telegram Bot Clone Source Code, TapSwap, Blum, X Empire, Hamster Kombat, W-Coin Clone [CryptoTap](https://t.me/CryptoTaperBot)
-  <img src="./src/cryptotap-banner.png" alt="Slide 1" width="200" height="auto">
+
+[Play Online Demo](https://cryptotap.datanito.com/)
+
+  <img src="./src/cryptotap-banner.png" alt="NotCoin Telegram Bot Clone Source Code Banner" width="600" height="auto">
 
 🚀 CryptoTap - A next-level Airdrop Clicker Game with a Telegram Mini App, Bot, and Full API integration! A perfect Notcoin, X Empire, TapSwap, and Blum alternative—better gameplay, more engagement, and a seamless admin experience.
 
